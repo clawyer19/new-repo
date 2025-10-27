@@ -1,0 +1,18 @@
+---
+title: "Lab S3"
+author: "Caleb Lawyer"
+format:
+  html: 
+    toc: true
+    toc_float: true
+    embed-resources: true
+editor: visual
+execute: 
+  warning: false
+  message: false
+---
+
+## About Me
+
+
+[Lab 6](https://ood.unity.rc.umass.edu/rnode/ceewater-cpu004.unity.rc.umass.edu/8100/files/Lab6_caleblawyer.html)
