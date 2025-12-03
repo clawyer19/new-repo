@@ -14,5 +14,6 @@ execute:
 
 ## About Me
 
+[Lab 6](Lab6_caleblawyer.html)
 
-[Lab 6](https://ood.unity.rc.umass.edu/rnode/ceewater-cpu004.unity.rc.umass.edu/8100/files/Lab6_caleblawyer.html)
+[Lab 13](lab13_caleblawyer.html)
